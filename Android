@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275197379634",
+    "firebase_url": "https://lindsey-moceri-f07f6.firebaseio.com",
+    "project_id": "lindsey-moceri-f07f6",
+    "storage_bucket": "lindsey-moceri-f07f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275197379634:android:ca70de6af679feb3baa82b",
+        "android_client_info": {
+          "package_name": "Co.shopney.lindseymoceri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275197379634-r7v09cmb8hanbrhifs2re99fjp58bh4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKfAS_wfna1FYDSTo4Qu3n0Gt6ScdDEw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275197379634-r7v09cmb8hanbrhifs2re99fjp58bh4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275197379634-0he6mn2hpn1ee979rj7l57ki8n792p1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Co.shopney.lindseymoceri"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
